@@ -1,0 +1,14 @@
+[submodule "PROJECT"]
+    path = PROJECT
+    url = https://github.com/Kyungdeok-Koo/PROJECT.git
+
+[submodule "Real_Estate_Transaction_Price_Information_2024"]
+	path = Real_Estate_Transaction_Price_Information_2024
+	url = https://github.com/Kyungdeok-Koo/Real_Estate_Transaction_Price_Information_2024.git
+[submodule "GeOdyssey"]
+	path = GeOdyssey
+	url = https://github.com/Kyungdeok-Koo/GeOdyssey.git
+[submodule "FinPin_Langchain"]
+	path = FinPin_Langchain
+	url = https://github.com/Kyungdeok-Koo/FinPin_Langchain.git
+
